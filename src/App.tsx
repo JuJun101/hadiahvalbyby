@@ -43,8 +43,8 @@ export default function Page() {
       ) : (
         <>
           <img
-            className="h-[200px]"
-            src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
+            className="h-[400px]"
+            src="https://media1.tenor.com/m/2jYifw6j8YYAAAAd/red-panda.gif"
           />
           <h1 className="my-4 text-4xl"><p>Byby di valentine tahun ini aku bersyukur karena ada byby sama aku</p> 
           <p>dan makin hari rasa sayang aku ke byby terus bertambah, I Love You Byby</p>
